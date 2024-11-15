@@ -2,9 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on study together with other person in same thing
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: @dhikasubandi0708@gmail.com
 
 <!---
 Andhika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
